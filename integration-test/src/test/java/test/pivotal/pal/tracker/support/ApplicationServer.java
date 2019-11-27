@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
 import java.util.Map;
-
 import static org.assertj.core.api.Assertions.fail;
 import static test.pivotal.pal.tracker.support.MapBuilder.envMapBuilder;
 
